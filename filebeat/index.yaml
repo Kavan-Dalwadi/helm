@@ -1,0 +1,20 @@
+apiVersion: v1
+entries:
+  filebeat:
+  - apiVersion: v1
+    appVersion: 7.17.3
+    created: "2022-08-05T17:04:53.886645814+05:30"
+    description: Official Elastic helm chart for Filebeat
+    digest: 8f7c01a5bcb16a8c4a022f8c89e6fa308b991d7cf1c2102c41c5771a15b06274
+    home: https://github.com/elastic/helm-charts
+    icon: https://helm.elastic.co/icons/beats.png
+    maintainers:
+    - email: helm-charts@elastic.co
+      name: Elastic
+    name: filebeat
+    sources:
+    - https://github.com/elastic/beats
+    urls:
+    - filebeat-7.17.3.tgz
+    version: 7.17.3
+generated: "2022-08-05T17:04:53.8855278+05:30"

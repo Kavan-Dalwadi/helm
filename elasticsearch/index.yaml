@@ -1,0 +1,20 @@
+apiVersion: v1
+entries:
+  elasticsearch:
+  - apiVersion: v1
+    appVersion: 7.17.3
+    created: "2022-08-05T17:05:44.757988189+05:30"
+    description: Official Elastic helm chart for Elasticsearch
+    digest: 53ef876dbb9a2916c2713fb444439182f8634ca9cf46f2ab7a3f78c82c17aa12
+    home: https://github.com/elastic/helm-charts
+    icon: https://helm.elastic.co/icons/elasticsearch.png
+    maintainers:
+    - email: helm-charts@elastic.co
+      name: Elastic
+    name: elasticsearch
+    sources:
+    - https://github.com/elastic/elasticsearch
+    urls:
+    - elasticsearch-7.17.3.tgz
+    version: 7.17.3
+generated: "2022-08-05T17:05:44.757218664+05:30"
