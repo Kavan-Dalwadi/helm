@@ -4,7 +4,7 @@
 
 To install this repo in you machine download helm cli, and run command:
 
-'''bash
+```bash
 helm repo add [local-repo-name]
 
-'''
+```
