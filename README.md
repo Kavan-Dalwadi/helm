@@ -12,6 +12,6 @@ e.g. helm repo add elk https://kavan-dalwadi.github.io/helm/
 >To install any of the ELK charts, run command:
 
 ```bash
-helm install [chart-name] [local-repo-name]/[chart-name]
+$ helm install [chart-name] [local-repo-name]/[chart-name]
 e.g. helm repo add logstash elk/logstash
 ```
