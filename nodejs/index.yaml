@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   node-hello:
   - apiVersion: v2
-    appVersion: 0.0.1
-    created: "2022-08-05T13:01:18.547693969+05:30"
+    appVersion: 0.0.2
+    created: "2022-08-05T15:52:11.168507777+05:30"
     description: A Helm chart for Kubernetes
-    digest: 729a50a16de298c4819307f88cf3b75b75c6e381d9c7561364912c0f3255e990
+    digest: 4c087475aa1f9a9871636640d66d3119ad046c24422622534443906eb91ae20b
     name: node-hello
     type: application
     urls:
-    - node-hello-0.1.0.tgz
-    version: 0.1.0
-generated: "2022-08-05T13:01:18.54713034+05:30"
+    - node-hello-0.1.1.tgz
+    version: 0.1.1
+generated: "2022-08-05T15:52:11.168219982+05:30"
