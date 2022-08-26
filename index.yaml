@@ -3,7 +3,7 @@ entries:
   elasticsearch:
   - apiVersion: v1
     appVersion: 7.17.3
-    created: "2022-08-05T17:14:59.801199989+05:30"
+    created: "2022-08-26T15:27:24.551296573+05:30"
     description: Official Elastic helm chart for Elasticsearch
     digest: 53ef876dbb9a2916c2713fb444439182f8634ca9cf46f2ab7a3f78c82c17aa12
     home: https://github.com/elastic/helm-charts
@@ -20,7 +20,7 @@ entries:
   filebeat:
   - apiVersion: v1
     appVersion: 7.17.3
-    created: "2022-08-05T17:14:59.802060683+05:30"
+    created: "2022-08-26T15:27:24.55443756+05:30"
     description: Official Elastic helm chart for Filebeat
     digest: 8f7c01a5bcb16a8c4a022f8c89e6fa308b991d7cf1c2102c41c5771a15b06274
     home: https://github.com/elastic/helm-charts
@@ -37,7 +37,7 @@ entries:
   kibana:
   - apiVersion: v1
     appVersion: 7.17.3
-    created: "2022-08-05T17:14:59.802664156+05:30"
+    created: "2022-08-26T15:27:24.555018843+05:30"
     description: Official Elastic helm chart for Kibana
     digest: 8c52d6e02d820c30c3e9901adf56bcd43bac53169c367403ec28cd3f830eba6f
     home: https://github.com/elastic/helm-charts
@@ -54,7 +54,7 @@ entries:
   logstash:
   - apiVersion: v1
     appVersion: 7.17.3
-    created: "2022-08-05T17:14:59.805189268+05:30"
+    created: "2022-08-26T15:27:24.555700171+05:30"
     description: Official Elastic helm chart for Logstash
     digest: e4ec9831c36f6b54ce2c4aadcdc825eb600cd6769a4eec17159292909b793694
     home: https://github.com/elastic/helm-charts
@@ -71,7 +71,17 @@ entries:
   node-hello:
   - apiVersion: v2
     appVersion: 0.0.5
-    created: "2022-08-05T17:14:59.805430563+05:30"
+    created: "2022-08-26T15:27:24.5563036+05:30"
+    description: A Helm chart for Kubernetes
+    digest: f8e818e352fe1f858916a6518ee820c6fc58b2a6ba11098c23cb7d240b704d5a
+    name: node-hello
+    type: application
+    urls:
+    - nodejs/node-hello-0.1.6.tgz
+    version: 0.1.6
+  - apiVersion: v2
+    appVersion: 0.0.5
+    created: "2022-08-26T15:27:24.5560212+05:30"
     description: A Helm chart for Kubernetes
     digest: fbf53bba3e3c10fd77d1a1a0324a2889a207e417d080d936c30295788ac2211f
     name: node-hello
@@ -79,4 +89,4 @@ entries:
     urls:
     - nodejs/node-hello-0.1.5.tgz
     version: 0.1.5
-generated: "2022-08-05T17:14:59.79952186+05:30"
+generated: "2022-08-26T15:27:24.550294212+05:30"
