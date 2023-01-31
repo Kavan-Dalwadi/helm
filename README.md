@@ -13,5 +13,5 @@ e.g. helm repo add elk https://kavan-dalwadi.github.io/helm/
 
 ```bash
 $ helm install [chart-name] [local-repo-name]/[chart-name]
-e.g. helm repo add logstash elk/logstash
+e.g. helm install logstash elk/logstash
 ```
